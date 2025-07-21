@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Thalita, estudante de Sistemas de Informação.
+## Oiii! Bem vindo ao meu perfil :)
 
 Atualmente, estudando Full Stack 💻
 
