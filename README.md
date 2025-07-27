@@ -3,6 +3,8 @@
 I have experience with C, JavaScript, TypeScript, and Node.js for backend development, and React, HTML, and CSS for frontend. I’m also familiar with Python and C# for general-purpose programming.
 
 
+## Techs
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalita-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
