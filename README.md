@@ -9,7 +9,7 @@
 ## Tech Stacks & Tools
 <div style="display: inline_block">
   <img align="center" alt="Thalita-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
-  <img align="center" alt="Thalita-Js" height="30" width="40" src="https://devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thalita-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
    <img align="center" alt="Thalita-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Thalita-Ts" height="30" width="40" src="https://devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thalita-React" height="30" width="40" src="https://devicons/devicon/master/icons/react/react-original.svg">
