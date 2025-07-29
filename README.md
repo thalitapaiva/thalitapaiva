@@ -23,7 +23,7 @@
   ## Socials
  
 <div> 
-  <a href="https://instagram.com/thalita_paivaa" target="_blank"><img src="./assets/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thalita-paiva-1301a122b/" target="_blank"><img src="./assets/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/thalita_paivaa" target="_blank" rel="noreferrer"><img src="./assets/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thalita-paiva-1301a122b/" target="_blank" rel="noreferrer"><img src="./assets/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;
   
 </div>
