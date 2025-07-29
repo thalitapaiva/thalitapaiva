@@ -19,13 +19,5 @@
  <img align="center" alt="Thalita-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thalita-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-</div>
-  
-  ## Socials
-
- <p align="left"> 
-<a href="https://www.linkedin.com/in/rafaelbpires" target="_blank" rel="noreferrer"><img src=https://www.flaticon.com/free-icon/instagram_15713420?term=instagram&page=1&position=13&origin=search&related_id=15713420" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rafaelb_/" target="_blank" rel="noreferrer"><img src="./assets/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-
   
 </div>
