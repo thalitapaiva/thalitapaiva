@@ -1,9 +1,11 @@
-## Hii! Welcome to my profile :)
+## About me
 
-I have experience with C, JavaScript, TypeScript, and Node.js for backend development, and React, HTML, and CSS for frontend. I’m also familiar with Python and C# for general-purpose programming.
+🏡 Based in Alegre, ES, Brazil
+💻 Currently studying Full Stack Development
+🎮 Game enthusiast
+🌱 Lifelong learner
 
-
-## Techs
+## Tech Stacks & Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thalita-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -11,9 +13,9 @@ I have experience with C, JavaScript, TypeScript, and Node.js for backend develo
    <img align="center" alt="Thalita-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Thalita-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Thalita-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thalita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thalita-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thalita-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thalita-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+   <img align="center" alt="Thalita-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
+ <img align="center" alt="Thalita-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thalita-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
