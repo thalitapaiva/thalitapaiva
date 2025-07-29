@@ -13,7 +13,7 @@
    <img align="center" alt="Thalita-Node" height="30" width="40" src="https://devicon-website.vercel.app/api/node/original.svg"
   <img align="center" alt="Thalita-Ts" height="30" width="40" src="https://devicon-website.vercel.app/api/typescript/original.svg"
   <img align="center" alt="Thalita-React" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original.svg"
-  <img align="center" alt="Thalita-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="Thalita-Photoshop" height="30" width="40" src="https://devicon-website.vercel.app/api/photoshop/original.svg">
   <img align="center" alt="Thalita-Figma" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg">
    <img align="center" alt="Thalita-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
   <img align="center" alt="Thalita-Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
