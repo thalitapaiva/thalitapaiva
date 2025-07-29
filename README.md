@@ -16,8 +16,8 @@
   <img align="center" alt="Thalita-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Thalita-Figma" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg">
    <img align="center" alt="Thalita-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
- <img align="center" alt="Thalita-Python" height="30" width="40" src="https://devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thalita-Csharp" height="30" width="40" src="https://devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Thalita-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Thalita-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
   
   
 </div>
