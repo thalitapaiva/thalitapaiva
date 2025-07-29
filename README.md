@@ -22,19 +22,10 @@
 </div>
   
   ## Socials
- 
-<p align="left"> 
-<a href="https://poly.me/bpires" target="_blank" rel="noreferrer"><img src="./assets/socials/polywork.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.twitter.com/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/690807885617430558" target="_blank" rel="noreferrer"><img src="./assets/socials/discord.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://t.me/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/telegram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://substack.com/profile/93748291-rafael-b-pires" target="_blank" rel="noreferrer"><img src="./assets/socials/substack.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://bpires.hashnode.dev/" target="_blank" rel="noreferrer"><img src="./assets/socials/hashnode.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/devdotto-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@rafaelbpires" target="_blank" rel="noreferrer"><img src="./assets/socials/medium-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/rafaelb_/" target="_blank" rel="noreferrer"><img src="./assets/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/22f5kxfnmsjnp3dzlluok272i" target="_blank" rel="noreferrer"><img src="./assets/socials/spotify-round.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+ <div> 
+  <a href="https://instagram.com/thalita_paivaa" target="_blank"><img src="https://www.flaticon.com/free-icon/instagram_15713420?term=instagram&page=1&position=13&origin=search&related_id=15713420" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thalita-paiva-1301a122b/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg"></a> 
 
   
 </div>
