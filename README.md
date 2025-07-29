@@ -22,10 +22,10 @@
 </div>
   
   ## Socials
- <div> 
-  <a href="https://instagram.com/thalita_paivaa" target="_blank"><img src="https://www.flaticon.com/free-icon/instagram_15713420?term=instagram&page=1&position=13&origin=search&related_id=15713420" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thalita-paiva-1301a122b/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg"></a> 
+
+ <p align="left"> 
+<a href="https://www.linkedin.com/in/rafaelbpires" target="_blank" rel="noreferrer"><img src=https://www.flaticon.com/free-icon/instagram_15713420?term=instagram&page=1&position=13&origin=search&related_id=15713420" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rafaelb_/" target="_blank" rel="noreferrer"><img src="./assets/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 
   
 </div>
