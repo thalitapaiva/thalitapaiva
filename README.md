@@ -1,6 +1,6 @@
 ## About me
 
-🏡 Based in Alegre, ES, Brazil
+💻 UFES Information Systems student focused on continuous learning
 
 
 ## Tech Stacks
