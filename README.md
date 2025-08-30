@@ -16,5 +16,6 @@
   <img align="center" alt="Thalita-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thalita-Csharp" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
   
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python)](https://skillicons.dev)
   
 </div>
