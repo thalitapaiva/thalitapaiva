@@ -1,7 +1,6 @@
 ## About me
 
 🏡 Based in Alegre, ES, Brazil
-<br/>💻 Currently studying Full Stack Development
 
 
 ## Tech Stacks & Tools
