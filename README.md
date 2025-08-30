@@ -6,6 +6,6 @@
 ## Tech Stacks
 <div> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,C)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c)](https://skillicons.dev)
   
 </div>
